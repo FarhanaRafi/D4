@@ -127,6 +127,7 @@ button {
 }
 
 .section-main-container h2 {
+    margin-left: 15%;
     margin-top: 80px;
 }
 
@@ -179,6 +180,7 @@ h2 {
 }
 
 .section-main-container2 h2 {
+    margin-left: 15%;
     margin-top: 20px;
 }
 
@@ -194,7 +196,8 @@ h2 {
 }
 
 .section-main-container3 h2 {
-    margin-top: -25px;
+    margin-left: 15%;
+    margin-top: -4%;
 }
 
 .detail-section3 .cards {
