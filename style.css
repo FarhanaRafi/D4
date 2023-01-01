@@ -110,7 +110,7 @@ button {
 }
 
 .details {
-    height: 9vh;
+    height: 7vh;
     margin-left: 4%;
     margin-top: 15px;
 }
@@ -160,6 +160,7 @@ h2 {
 }
 
 .detail-section .cards {
+    margin-top: 7px;
     justify-content: center;
 }
 
@@ -185,6 +186,7 @@ h2 {
 }
 
 .detail-section2 .cards {
+    margin-top: 7px;
     justify-content: center;
 }
 
@@ -201,6 +203,7 @@ h2 {
 }
 
 .detail-section3 .cards {
+    margin-top: 7px;
     justify-content: center;
 }
 
